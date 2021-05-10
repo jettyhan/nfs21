@@ -49,3 +49,4 @@ GstRender.TextureFiltering 0
 GstRender.TextureQuality 0
 GstRender.UndergrowthQuality 0
 GstRender.VSyncEnabled 0
+GstRender.WindowBordersEnable 1
